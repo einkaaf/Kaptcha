@@ -56,7 +56,7 @@ var kaptcha = KaptchaBuilder.Init().UseFonthPath("c:\\font.ttf").Build();
 
 ## Use Random Fonts in Folder:
 ```C#
-var kaptcha = KaptchaBuilder.Init().UseFontFolderPath("c:\\fonts\").Build();
+var kaptcha = KaptchaBuilder.Init().UseFontFolderPath("c:\\fonts").Build();
 ```  
 
 
