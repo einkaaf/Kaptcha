@@ -1,6 +1,11 @@
 # Kaptcha
 Open Source lib For Creating Persian Captcha
 
+For Using This Lib in Unix Base Make Sure `libgdiplus` Is Installed :
+```
+sudo apt-get install libgdiplus
+```
+
 ### Installing:
 .Net Standard 2+ (.Net Core)
 ```C#
